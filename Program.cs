@@ -17,11 +17,9 @@ namespace COMP1202_S20_Assg2_VickySuPao
     //Student1 Name : Paolo Tous
     //Student1 ID : 101325245
 
-    //Student2 Name : Su Su Aye Aung
-    //Student2 ID : 101296632
+    //Student2 Name : Su Su
 
-    //Student3 Name : Ke (Vicky) Wang
-    //Student3 ID : 101270848
+    //Student3 Name : Vicky
     class Program
     {
         static void Main(string[] args)
